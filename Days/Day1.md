@@ -6,7 +6,7 @@ ____
 
 ![JavaProgress21.png](Attachments-DOC/JavaProgress21.png)
 
--  Watched a 13min [YouTube tutorial](https://youtu.be/5o3fMLPY7qY) on how to create a GUI in Java, using the [swing API](https://www.javatpoint.com/java-swing).
+-  Watched a 13min [YouTube tutorial](https://youtu.be/5o3fMLPY7qY) on how to create a GUI in Java, using the [swing API](https://www.javatpoint.com/java-swing)
 -  Replicated the GUI program from the tutorial
 
 ![JavaGUITest.png](Attachments-DOC/JavaGUITest.png)
