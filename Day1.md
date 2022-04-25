@@ -10,7 +10,7 @@ ____
 ![JavaGUITest.png](Attachments-DOC/JavaGUITest.png)
 
 #### Thoughts: 
-I'll have to continue learning more making GUI application with Java before creating a application that uses the GUI.
+I'll have to continue learning more about making GUI application with Java before creating a application that uses the GUI.
 I'm still thinking of programming project to do in Java. 
 This is what I came up with so far:
 - Bug Tracker
