@@ -3,7 +3,9 @@ ____
 # Day 1: April 24, 2022
 #### Today's Progress:
 -  Started doing basics Java exercises on [Codecademy](https://www.codecademy.com/learn/learn-java)
-<!--- Replace comment with screenshot of codecademy-->
+
+![JavaProgress21.png](Attachments-DOC/JavaProgress21.png)
+
 -  Watched a 13min [YouTube tutorial](https://youtu.be/5o3fMLPY7qY) on how to create a GUI in Java, using the [swing API](https://www.javatpoint.com/java-swing).
 -  Replicated the GUI program from the tutorial
 
@@ -19,5 +21,5 @@ This is what I came up with so far:
 
 
 ###### Link(s) to work:
-![GUI.java](Attachments-DOC/GUI.java)
+[GUI.java](Attachments-DOC/GUI.java)
 ___
