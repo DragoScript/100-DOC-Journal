@@ -4,7 +4,7 @@ ___
 
 ### Days:
 
-- [Day 1](#) - April 24, 2022
+- [Day 1](Day1.md) - April 24, 2022
 - Day 2 - {{date}}
 - Day 3 - {{date}}
 ___
