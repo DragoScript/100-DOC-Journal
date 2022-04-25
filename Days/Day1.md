@@ -1,4 +1,4 @@
-Back to [Index](README.md)
+Back to [Index](../README.md)
 ____
 # Day 1: April 24, 2022
 #### Today's Progress:
