@@ -6,5 +6,5 @@ ___
 
 - [Day 1](/Days/Day1.md) - April 24, 2022
 - [Day 2](/Days/Day2.md) - April 25, 2022
-- Day 3 - {{date}}
+- [Day 3](/Days/Day3.md) - April 26, 2022
 ___
