@@ -1,9 +1,9 @@
-Back to [[Index]]
+Back to [Index](../README.md)
 ____
 # Day 4: April 27, 2022
 #### Today's Progress:
 - I spent 2 hours progressing thorough [Codecademy](https://www.codecademy.com/learn/learn-java)'s Learn Java course. 
-![JavaProgress52.png](Attachments-DOC/JavaProgress52.png)
+![JavaProgress52.png](../Attachments-DOC/JavaProgress52.png)
 
 
 #### Thoughts:
