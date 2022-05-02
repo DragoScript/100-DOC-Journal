@@ -12,4 +12,5 @@ ___
 - [Day 6](/Days/Day6.md) - April 29, 2022
 - [Day 7](/Days/Day7.md) - April 30, 2022
 - [Day 8](/Days/Day8.md) - May 1, 2022
+- [Day 9](/Days/Day9.md) - May 2, 2022
 ___
