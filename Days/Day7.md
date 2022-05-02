@@ -2,10 +2,10 @@ Back to [Index](../README.md)
 ____
 # Day 7: April 30, 2022
 #### Today's Progress:
-- I spent 1 hour progressing thorough [Codecademy](https://www.codecademy.com/learn/learn-java)'s Learn Java course
+- I spent 1 hour progressing through [Codecademy](https://www.codecademy.com/learn/learn-java)'s Learn Java course
 ![JavaProgress78.png](../Attachments-DOC/JavaProgress78.png)
 
-- spent another hour progressing thorough [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)'s responsive web design course
+- spent another hour progressing through [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)'s responsive web design course
  ![respWebDesign_BasicCSS50.png](../Attachments-DOC/respWebDesign_BasicCSS50.png)
 
 #### Thoughts:
