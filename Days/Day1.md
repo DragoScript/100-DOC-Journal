@@ -2,13 +2,11 @@ Back to [Index](../README.md)
 ____
 # Day 1: April 24, 2022
 #### Today's Progress:
--  Started doing basics Java exercises on [Codecademy](https://www.codecademy.com/learn/learn-java)
-
+-  Started doing basics Java exercises on [Codecademy](https://www.codecademy.com/learn/learn-java)<br>
 ![JavaProgress21.png](../Attachments-DOC/JavaProgress21.png)
 
 -  Watched a 13min [YouTube tutorial](https://youtu.be/5o3fMLPY7qY) on how to create a GUI in Java, using the [swing API](https://www.javatpoint.com/java-swing)
--  Replicated the GUI program from the tutorial
-
+-  Replicated the GUI program from the tutorial<br>
 ![JavaGUITest.png](../Attachments-DOC/JavaGUITest.png)
 
 #### Thoughts: 
