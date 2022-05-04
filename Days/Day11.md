@@ -2,7 +2,7 @@ Back to [Index](../README.md)
 ____
 # Day 11: May 4, 2022
 #### Today's Progress:
-- Started part 4 of  the responsive web design course by [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) called applied accessibility, and spent 1 hour progressing through the course
+- Started part 4 of  the responsive web design course by [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) called applied accessibility, and spent 1 hour progressing through the course<br>
 ![respWebDesign_AA50.png](../Attachments-DOC/respWebDesign_AA50.png)
 
 #### Thoughts:
