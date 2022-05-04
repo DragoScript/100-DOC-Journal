@@ -1,6 +1,6 @@
 ___
 # 100 Days Of Code - Journal
-###### By: DragoScript
+###### By: [DragoScript](https://github.com/DragoScript)
 
 ### Days:
 
@@ -14,4 +14,5 @@ ___
 - [Day 8](/Days/Day8.md) - May 1, 2022
 - [Day 9](/Days/Day9.md) - May 2, 2022
 - [Day 10](/Days/Day10.md) - May 3, 2022
+- [Day 11](/Days/Day11.md) - May 4, 2022
 ___
