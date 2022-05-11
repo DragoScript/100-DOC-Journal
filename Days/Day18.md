@@ -4,7 +4,7 @@ ____
 #### Today's Progress:
 -  Spent 2 hours working on the CSS part of the Tribute Page and completed it.
 ![TributePage2.png](../Attachments-DOC/TributePage2.png)
--  My Tribute Page passed [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)'s code grader script
+-  My Tribute Page passed [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)'s code grader script<br>
 ![TributePageGraded.png](../Attachments-DOC/TributePageGraded.png)
 
 #### Thoughts:
