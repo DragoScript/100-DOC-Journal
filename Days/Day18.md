@@ -11,6 +11,6 @@ ____
 My biggest challenge when doing the CSS was trying to center the tribute-info part and make the image responsive. I was able to solve both of these issues by looking at how freeCodeCamp's tribute page web page solved them and try and apply it to my web page.
 
 ###### Link(s) to work:
-[My Tribute Page](https://dragoscript.github.io/TributePage/)
-[My Tribute Page's Source Files](https://github.com/DragoScript/TributePage)
+[My Tribute Page](https://dragoscript.github.io/TributePage/)<br>
+[My Tribute Page Source Files](https://github.com/DragoScript/TributePage)
 ___
