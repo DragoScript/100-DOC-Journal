@@ -1,4 +1,4 @@
-[<--](../Days/Day25.md) | [[Index]] | [-->](../Days/Day27.md)
+[<--](../Days/Day25.md) | [Index](../README.md) | [-->](../Days/Day27.md)
 ____
 # Day 26: May 19, 2022
 #### Today's Progress:
