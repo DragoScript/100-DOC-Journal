@@ -1,4 +1,4 @@
-[<--](../Days/Day37.md) | [Index](../README.md) | [-->](Days/Day39.md)
+[<--](../Days/Day37.md) | [Index](../README.md) | [-->](../Days/Day39.md)
 ____
 # Day 38: May 31, 2022
 #### Today's Progress:
