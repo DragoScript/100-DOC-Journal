@@ -43,4 +43,5 @@ ___
 - [Day 37](/Days/Day37.md) - May 30, 2022
 - [Day 38](/Days/Day38.md) - May 31, 2022
 - [Day 39](/Days/Day39.md) - June 1, 2022
+- [Day 40](/Days/Day40.md) - June 2, 2022
 ___
