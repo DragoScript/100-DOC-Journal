@@ -45,4 +45,5 @@ ___
 - [Day 39](/Days/Day39.md) - June 1, 2022
 - [Day 40](/Days/Day40.md) - June 2, 2022
 - [Day 41](/Days/Day41.md) - June 3, 2022
+- [Day 42](/Days/Day42.md) - June 4, 2022
 ___
