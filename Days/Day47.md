@@ -1,4 +1,4 @@
-[<--](../Days/Day46.md) | [[Index]] | [-->](../Days/Day48.md)
+[<--](../Days/Day46.md) | [Index](../README.md) | [-->](../Days/Day48.md)
 ____
 # Day 47: June 9, 2022
 #### Today's Progress:
