@@ -51,4 +51,5 @@ ___
 - [Day 45](/Days/Day45.md) - June 7, 2022
 - [Day 46](/Days/Day46.md) - June 8, 2022
 - [Day 47](/Days/Day47.md) - June 9, 2022
+- [Day 48](/Days/Day48.md) - June 10, 2022
 ___
