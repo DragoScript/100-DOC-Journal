@@ -9,7 +9,7 @@ ____
 WinCounter is very similar to my Java application called GUI.java from Day 1. The biggest difference is that I added a reset button to reset the counter. My only issue with my WinCounter application, is that I can't get the number to stay center. Maybe I missed a center text setting in the label property.
 
 ###### Link(s) to work:
-[WinCounter.exe](../Attachments-DOC/WinCounter.exe)
+[WinCounter.exe](../Attachments-DOC/WinCounter.exe)<br>
 [WinCounter Source File](../Attachments-DOC/WinCounter_Source_File.zip)
 
 ___
