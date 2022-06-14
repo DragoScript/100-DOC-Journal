@@ -1,4 +1,4 @@
-[<--](../Days/Day50.md) | [Index](../README.md) | [-->](../Days/Day51.md)
+[<--](../Days/Day50.md) | [Index](../README.md) | [-->](../Days/Day52.md)
 ____
 # Day 51: June 13, 2022
 #### Today's Progress:
