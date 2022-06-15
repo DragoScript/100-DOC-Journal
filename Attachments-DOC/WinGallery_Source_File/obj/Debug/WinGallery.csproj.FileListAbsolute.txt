@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinGallery\WinGallery\bin\Debug\WinGallery.exe.config
+C:\Users\User\source\repos\WinGallery\WinGallery\bin\Debug\WinGallery.exe
+C:\Users\User\source\repos\WinGallery\WinGallery\bin\Debug\WinGallery.pdb
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.WinGallery.resources
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.Properties.Resources.resources
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.exe
+C:\Users\User\source\repos\WinGallery\WinGallery\obj\Debug\WinGallery.pdb
