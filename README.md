@@ -59,5 +59,5 @@ ___
 - [Day 53](/Days/Day53.md) - June 15, 2022
 - [Day 54](/Days/Day54.md) - June 16, 2022
 - [Day 55](/Days/Day55.md) - June 17, 2022
-- [Day 56](/Days/Day55.md) - June 17, 2022
+- [Day 56](/Days/Day55.md) - June 18, 2022
 ___
