@@ -61,4 +61,5 @@ ___
 - [Day 55](/Days/Day55.md) - June 17, 2022
 - [Day 56](/Days/Day56.md) - June 18, 2022
 - [Day 57](/Days/Day57.md) - June 19, 2022
+- [Day 58](/Days/Day58.md) - June 20, 2022
 ___
