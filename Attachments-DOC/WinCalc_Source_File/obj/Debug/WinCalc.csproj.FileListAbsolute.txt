@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+C:\Users\User\source\repos\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+C:\Users\User\source\repos\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.WinCalc.resources
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.Properties.Resources.resources
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+C:\Users\User\source\repos\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
