@@ -6,7 +6,7 @@ ____
 ![KotlinProgress100.png](../Attachments-DOC/KotlinProgress100.png)
 
 #### Thoughts:
-I finished some classes exercises and completed the course.
+I did some classes exercises and completed the course.
 
 ###### Link(s) to work:
 
