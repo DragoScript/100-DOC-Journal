@@ -70,4 +70,5 @@ ___
 - [Day 64](/Days/Day64.md) - June 26, 2022
 - [Day 65](/Days/Day65.md) - June 27, 2022
 - [Day 66](/Days/Day66.md) - June 28, 2022
+- [Day 67](/Days/Day67.md) - June 29, 2022
 ___
