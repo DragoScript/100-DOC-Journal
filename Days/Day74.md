@@ -6,7 +6,7 @@ ____
 - I read the Android Developer Documentation: [App Basics](https://developer.android.com/guide) section (App resources/Resource types/Layout part  to App resources/Resource types/String part)
 
 #### Thoughts:
-The eighth hour of the video is mostly about the XML files, and the last 18 minutes was about material design.
+The eighth hour of the video is mostly about the XML files, and the last 18 minutes was about [material](https://material.io/) design.
 
 ###### Link(s) to work:
 
