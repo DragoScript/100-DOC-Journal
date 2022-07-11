@@ -81,4 +81,5 @@ ___
 - [Day 75](/Days/Day75.md) - July 7, 2022
 - [Day 76](/Days/Day76.md) - July 8, 2022
 - [Day 77](/Days/Day77.md) - July 9, 2022
+- [Day 78](/Days/Day78.md) - July 10, 2022
 ___
