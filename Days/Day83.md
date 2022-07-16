@@ -1,4 +1,4 @@
-[<--](../Days/Day82.md) | [Index] | [-->](../Days/Day84.md)
+[<--](../Days/Day82.md) | [Index](../README.md) | [-->](../Days/Day84.md)
 ____
 # Day 83: July 15, 2022
 #### Today's Progress:
