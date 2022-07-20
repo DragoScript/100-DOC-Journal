@@ -90,4 +90,5 @@ ___
 - [Day 84](/Days/Day84.md) - July 16, 2022
 - [Day 85](/Days/Day85.md) - July 17, 2022
 - [Day 86](/Days/Day86.md) - July 18, 2022
+- [Day 87](/Days/Day87.md) - July 19, 2022
 ___
