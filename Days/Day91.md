@@ -1,4 +1,4 @@
-[<--](../Days/Day90.md) | [Index](README.md) | [-->](../Days/Day92.md)
+[<--](../Days/Day90.md) | [Index](../README.md) | [-->](../Days/Day92.md)
 ____
 # Day 91: July 23, 2022
 #### Today's Progress:
