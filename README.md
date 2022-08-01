@@ -101,5 +101,6 @@ ___
 - [Day 95](/Days/Day95.md) - July 27, 2022
 - [Day 96](/Days/Day96.md) - July 28, 2022
 - [Day 97](/Days/Day97.md) - July 29, 2022
-- [Day 98](/Days/Day97.md) - July 29, 2022
+- [Day 98](/Days/Day98.md) - July 30, 2022
+- [Day 99](/Days/Day99.md) - July 31, 2022
 ___
