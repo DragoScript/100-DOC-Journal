@@ -2,6 +2,10 @@ ___
 # 100 Days Of Code - Journal
 ###### By: [DragoScript](https://github.com/DragoScript)
 
+### Highlights:
+[JaCalc](Days/Day%204.md) |  [PyFileCreate](Days/Day%2027.md) | [PyWebSearch](Days/Day%2028.md) | [PyFileRead](Days/Day%2029.md)
+ | [PyFileRead](Days/Day%2029.md) | [Portfolio Webpage](Days/Day%2032.md) | [WinCalc](Days/Day%2062.md) | [ShinyHunter](Days/Day%20100.md)
+
 ### Days:
 
 - [Day 1](/Days/Day1.md) - April 24, 2022
