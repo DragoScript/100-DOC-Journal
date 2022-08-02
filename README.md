@@ -3,8 +3,8 @@ ___
 ###### By: [DragoScript](https://github.com/DragoScript)
 
 ### Highlights:
-[JaCalc](Days/Day%204.md) |  [PyFileCreate](Days/Day%2027.md) | [PyWebSearch](Days/Day%2028.md) | [PyFileRead](Days/Day%2029.md)
- | [PyFileRead](Days/Day%2029.md) | [Portfolio Webpage](Days/Day%2032.md) | [WinCalc](Days/Day%2062.md) | [ShinyHunter](Days/Day%20100.md)
+[JaCalc](Days/Day4.md) |  [PyFileCreate](Days/Day27.md) | [PyWebSearch](Days/Day28.md) | [PyFileRead](Days/Day29.md)
+ | [PyFileRead](Days/Day29.md) | [Portfolio Webpage](Days/Day32.md) | [WinCalc](Days/Day%62.md) | [ShinyHunter](Days/Day100.md)
 
 ### Days:
 
